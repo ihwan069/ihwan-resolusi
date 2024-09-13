@@ -1,0 +1,3 @@
+IHWAN RESOLUSI
+- Membuat website sistem pakar berbagai jenis penyakit
+- Belajar mengelola file dengan github
