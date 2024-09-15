@@ -6,6 +6,7 @@ RENCANA PERUSAHAAN IHWANCOM
 - mencari costumer
 - membuat website sesuai kemauan Costumer
 - membuat Aplikasi
+- membentuk sebuah tim pengajar dibidang IT
   ^ berbasis web
   ^ berbasis desktop
   ^ berbasis mobile
