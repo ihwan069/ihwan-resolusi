@@ -1,5 +1,11 @@
 RENCANA PERUSAHAAN IHWANCOM
-- Membuat tim IhwanCom (Front-Back End), Tim Analis
+- Membuat tim IhwanCom
+  ^ back-front End
+  ^ Tim Analisis
+  ^ Tim Pencari kostumer
 - mencari costumer
 - membuat website sesuai kemauan Costumer
 - membuat Aplikasi
+  ^ berbasis web
+  ^ berbasis desktop
+  ^ berbasis mobile
